@@ -1,0 +1,27 @@
+/* src/App.css */
+.app-container {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  margin-bottom: 5px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+li:hover {
+  background-color: #f0f0f0;
+}
+
+.episode-details {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
